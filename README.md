@@ -39,7 +39,7 @@ The app supports several languages, including:
 
 ---
 
-## 📦 Installation (Optional)
+## 📦 Installation 
 Want to run the app locally? Follow these steps:  
 
 1. Clone the repository:  
